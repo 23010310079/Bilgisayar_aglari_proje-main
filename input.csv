@@ -1,0 +1,9 @@
+parametre,deger
+kaynak,1
+hedef,10
+populasyon,80
+nesil,100
+mutasyon,0.3
+agirlik_delay,0.4
+agirlik_reliability,0.4
+agirlik_cost,0.2
